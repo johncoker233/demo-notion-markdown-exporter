@@ -1,0 +1,5 @@
+{
+  "streamlit": {
+    "entry": "notion-md-exporter.py"
+  }
+}
